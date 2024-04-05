@@ -1,0 +1,7 @@
+BenchmarkCRUDOperations/CreateItem-12    --    -12 degani noutbukimdan qancha CPU ishlatgani.
+
+1528282 - test uchun necha marta iteratsiya bo'lgani
+
+733.5 ns/op  test qanchga vaqt olgani.      ns/op - nanosecund per operation.
+
+1103 B/op     yozish amali hajmi. 1103 bayt ishlatgan har bitta operatsiyaga
